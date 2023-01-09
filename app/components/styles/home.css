@@ -1,0 +1,13 @@
+.h1titulo{
+  font-size: 5rem;
+  color:#ffccbc;
+
+}
+.imagenhome{
+    border-radius: 50%;
+    width: 20rem;
+}
+.imagensobremi{
+  border-radius: 50%;
+  width: 15rem;
+}

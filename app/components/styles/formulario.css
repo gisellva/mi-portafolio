@@ -1,0 +1,18 @@
+.inputtex{
+width: 20rem;
+height: 4rem;
+background-color: rgb(255, 249, 240);
+border-color: rgb(180, 180, 180);
+}
+.inputmensaje{
+width: 20rem;
+height: 10rem;
+background-color: rgb(255, 249, 240);
+border-color: rgb(185, 171, 171);
+}
+.inputenvia{
+    width: 20rem;
+    height: 3rem; 
+    background-color: #ffccbc; 
+    border: #ffccbc;
+}
